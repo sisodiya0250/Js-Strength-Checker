@@ -1,0 +1,26 @@
+
+body{
+    overflow: hidden;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;;
+    flex-direction: column;
+    background-image:linear-gradient(to top,rgb(244, 190, 244),rgb(223, 235, 239));
+    
+}
+input{
+    padding: 10px;;
+    width: 300px;;
+    font-size: 25px;;
+    outline: none;
+    border-width: 2px;
+    border-style: solid;
+    margin-bottom: 20px;;
+    border-image: linear-gradient(to top,blue,lime,blue,coral,violet,coral)1;
+    
+}
+span{
+    font-size: 35px;;
+}
